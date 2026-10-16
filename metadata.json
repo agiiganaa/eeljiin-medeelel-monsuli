@@ -1,0 +1,6 @@
+{
+  "name": "ШТС-ийн удирдлагын систем",
+  "description": "Монгол Улсын шатахуун түгээх станцын ээлж, шатахуун, сав, тос, POS, банк, касс, цалин, ээлж хүлээлцэх бүртгэлийн цогц систем",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
